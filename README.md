@@ -2,7 +2,7 @@
 代码主要参考了[a PyTorch Tutorial to Image Captioning](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)
 论文地址：[Show, Attend and Tell](https://arxiv.org/abs/1502.03044)
 
-这个Repository主要参考了[sgrvinod](https://github.com/sgrvinod)的[代码](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)，实现了soft attention-based Image Captioning的训练，评估，可视化。并且设计了一个简易的[网页版Image Caption Generator](https://github.com/Huntersxsx/Reproduce_Show-attend-and-tell#Web Version)，方便使用。
+这个Repository主要参考了[sgrvinod](https://github.com/sgrvinod)的[代码](https://github.com/sgrvinod/a-PyTorch-Tutorial-to-Image-Captioning)，实现了soft attention-based Image Captioning的训练，评估，可视化。并且设计了一个简易的[网页版Image Caption Generator](https://github.com/Huntersxsx/Reproduce_Show-attend-and-tell#web-version)，方便使用。
 
 ## <font face="楷体">Datasets</font>
 
